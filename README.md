@@ -1,2 +1,2 @@
-# Security-and-Portfolio-Analysis-of-3-Stocks-using-Python
-Individual security and portfolio analysis of 3 stocks using various python packages and statistical tools
+# Portfolio Risk Management and Optimization using Statistical analysis In Python
+Objective is to construct optimum Portfolio offering Highest Return for the Lowest Risk
