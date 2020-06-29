@@ -1,2 +1,2 @@
-# Portfolio Risk Management and Optimization using Statistical analysis In Python
-Objective is to construct optimum Portfolio offering Highest Return for the Lowest Risk
+# Security and Portfolio Analysis of 3 Stocks using Python
+Individual Security and Portfolio Analysis using various statistical methods
